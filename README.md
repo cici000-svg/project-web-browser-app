@@ -18,8 +18,8 @@ Project ini terdiri dari tiga file python, yaitu 1.py (LoginApp), 2.py(Web Brows
 ## a. Use Case Diagram
 ![Faila](UseCaseDiagram.png)
 ## b. Activity Diagram
-![Faila]()
+![Faila](Activity_Diagram.png)
 ## c. Class Diagram
-![Faila](ClassDiagram.png)
+![Faila](Class_Diagram.png)
 ## d. Sequence Diagram
 ![Faila]()
